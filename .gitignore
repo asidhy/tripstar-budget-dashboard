@@ -1,0 +1,9 @@
+backend/runtime_settings.json
+backend/data/trip_tasks
+
+# dependencies & build
+node_modules/
+dist/
+*.log
+.env
+.env.local
